@@ -48,4 +48,4 @@ This app is not a medical device and is not intended to diagnose, treat, or asse
 
 ## Contact
 
-For questions about this policy, contact: **baiheizongse@gmail.com** or use the repository's Issues / Discussions.
+For questions about this policy, contact: **contact@circadianguard.com** or use the repository's Issues / Discussions.
